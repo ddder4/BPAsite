@@ -59,6 +59,11 @@ html body {
 	font-family:GameCube;
 	src:url('./fonts/GameCube.ttf');
 }
+
+h2{
+	font-family:GameCube;
+}
+
 .infobox{
 	background-color:rgba(191,191,191,.3);
 	height:78%;
