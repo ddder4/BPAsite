@@ -37,12 +37,12 @@ html body {
 
 .logobanner{
 	background-image:url("banner3.gif");
-	background-size:1413px 200px;
+	background-size:1413px 240px;
 	background-repeat:no-repeat;
 	/*background-color:black;*/
 	color: white;
 	width:85%;
-	height:20%;
+	height:25%;
 	border-radius: 0px 0px 15px 15px;
 	border: 2px solid white;
 	margin:-20px auto;
