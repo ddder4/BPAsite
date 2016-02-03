@@ -52,20 +52,26 @@ html body {
 	position:relative;
 	text-align:center;
 	top:5%;
+	font-family:GameCube;
 }
 
+@font-face{
+	font-family:GameCube;
+	src:url('./fonts/GameCube.ttf');
+}
 .infobox{
-	background-color:rgba(191,191,191,.7);
-	background-repeat:no-repeat;
+	background-color:rgba(191,191,191,.3);
 	height:78%;
 	width:50%;
 	margin:0 auto;
 	padding:3px 15px;
 	color:white;
-	text-shadow: 2px 2px Black;
 	border-radius: 15px;
 	font-size: 19px;
+	text-align:justify;
 }
+
+
 
 nav {text-align: center;
 	position:relative;
@@ -114,7 +120,7 @@ nav ul li:hover a {
 }
 nav ul li a {
 	display: block; padding: 25px 40px;
-	color: #757575; text-decoration: none;
+	color: white; text-decoration: none;
 	background-color:black;
 }
 nav ul ul {
