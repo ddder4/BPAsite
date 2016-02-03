@@ -1,9 +1,9 @@
 body{
-	background:url(background.jpg);
-	background-size:cover;
+	background:url(diagmonds.png);
+	/*background-size:cover;*/
 	background-color:black;
 	background-position:fixed;
-	background-repeat:no-repeat;
+	/*background-repeat:no-repeat;*/
 }
 
 html body {
