@@ -29,6 +29,13 @@ html body {
 	
 }*/
 
+li{
+	list-style-type:none;
+	text-decoration:underline;
+	font-variant:small-caps;
+	font-size:20px;
+}
+
 #marquee{
 	margin:0 auto;
 	color:white;
@@ -38,7 +45,7 @@ html body {
 .logobanner{
 	background-image:url("banner4.gif");
 	background-size:1413px 240px;
-	background-repeat:no-repeat;
+	background-repeat:repeat-x;
 	/*background-color:black;*/
 	color: white;
 	width:85%;
