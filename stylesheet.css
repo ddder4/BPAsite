@@ -101,14 +101,17 @@ nav {text-align: center;
 	position:relative;
 	top:.2%;
 	width: 750px;
+
 }
 
 nav ul ul {
 	display: none;
 }
 
-nav ul li:hover > ul {
+nav ul li:hover {
 	display: block;
+	transition: 2s;
+	text-shadow: 0px 0px 25px #fff;
 }
 
 nav ul li {
