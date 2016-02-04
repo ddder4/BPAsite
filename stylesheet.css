@@ -36,7 +36,7 @@ html body {
 }
 
 .logobanner{
-	background-image:url("banner3.gif");
+	background-image:url("banner4.gif");
 	background-size:1413px 240px;
 	background-repeat:no-repeat;
 	/*background-color:black;*/
@@ -90,8 +90,10 @@ h2{
 
 
 nav {text-align: center;
+    margin: auto;
 	position:relative;
 	top:.2%;
+	width: 750px;
 }
 
 nav ul ul {
@@ -100,6 +102,10 @@ nav ul ul {
 
 nav ul li:hover > ul {
 	display: block;
+}
+
+nav ul li {
+	width: 155px;
 }
 
 nav ul {
