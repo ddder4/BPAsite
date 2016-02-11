@@ -104,6 +104,28 @@ h2{
 	box-shadow: 5px 5px 10px #000;
 }
 
+#propic {
+	text-align: center;
+	padding: 4px;
+}
+
+#propic img{
+	border-radius: 20px 0px 20px 0px;
+	box-shadow: 5px 5px 10px #000;
+	width: 500px;
+}
+
+#conpic {
+	text-align: center;
+	padding: 4px;
+}
+
+#conpic img{
+	border-radius: 20px 0px 20px 0px;
+	box-shadow: 5px 5px 10px #000;
+	width: 500px;
+}
+
 nav {text-align: center;
     margin: auto;
 	position:relative;
