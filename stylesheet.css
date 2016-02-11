@@ -94,7 +94,15 @@ h2{
 	line-height:32px;
 }
 
+#homepic {
+	text-align: center;
+	padding: 4px;
+}
 
+#homepic img{
+	border-radius: 20px 0px 20px 0px;
+	box-shadow: 5px 5px 10px #000;
+}
 
 nav {text-align: center;
     margin: auto;
@@ -110,7 +118,7 @@ nav ul ul {
 
 nav ul li:hover {
 	display: block;
-	transition: 2s;
+	transition: 1s;
 	text-shadow: 0px 0px 25px #fff;
 }
 
